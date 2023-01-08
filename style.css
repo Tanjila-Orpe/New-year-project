@@ -18,7 +18,7 @@
 /* Banner */
 .banner{
     height: 610px;
-    background-image: url('/images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     background-size: cover;
 }
 .banner-section{
@@ -113,7 +113,7 @@
 }
 /*  */
 .bg{
-    background-image: url(/images/gradient2.png),url("/images/watch.png");
+    background-image: url("./images/gradient2.png"),url("./images/watch.png");
     height: 300px;
     width: 80%;
     background-repeat: no-repeat;
